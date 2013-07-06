@@ -23,6 +23,12 @@ public class MainActivity extends Activity {
 
     @Override
     public boolean onContextItemSelected(MenuItem item) {
-        return true;
+        switch (item.getItemId()) {
+            case R.id.buApiKey:
+
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
     }
 }
