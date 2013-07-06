@@ -6,6 +6,6 @@
     <string name="infoStatus">Status</string>
     <string name="serverRestart">Restart</string>
     <string name="serverStart">Start</string>
-    <string name="serverStop">Stop</string>
+    <string name="serverStop">Stop</string><string name="textApiKey">Input API Key here</string><string name="submitApiKey">Submit</string>
 
 </resources>
