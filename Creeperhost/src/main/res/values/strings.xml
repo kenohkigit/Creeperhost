@@ -3,5 +3,9 @@
 
     <string name="app_name">Creeperhost</string>
     <string name="action_settings">Settings</string>
+    <string name="infoStatus">Status</string>
+    <string name="serverRestart">Restart</string>
+    <string name="serverStart">Start</string>
+    <string name="serverStop">Stop</string>
 
 </resources>
